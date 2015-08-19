@@ -7,7 +7,7 @@ Turn off your monitor and lock your desktop with one key -- `Scroll Lock`. See t
 ## BetterWindows
 For you keyboard-loving folks, this app provides shortcuts keys for some usually used functions like New Folder, Hide/Show hidden files, Toggle extensions, etc. See the Hotkeys window for the complete list.
 
-#HeadsUpConsole
+## HeadsUpConsole
 If you like the HUDs in video games then you'll love this. This will slide in/out a command prompt at the top of your screen simply by pressing the caret ( ` ) key.
 Requires: [Console2](http://sourceforge.net/projects/console/).
 
