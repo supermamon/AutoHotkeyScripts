@@ -13,3 +13,6 @@ Requires: [Console2](http://sourceforge.net/projects/console/).
 
 ## QueryAnalyzerCloseFile
 A lot of Windows&trade; applications allow you to close a sub-window using `CTRL+W`. This script allows you to do that with Query Analyzer (MS SQL Server 7.x); 
+
+---
+Icons by [DryIcons](http://www.dryicons.com/).
